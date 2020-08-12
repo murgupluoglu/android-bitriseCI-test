@@ -1,4 +1,4 @@
 # android-bitriseCI-test
 
-[![Build Status](https://app.bitrise.io/app/476c4a55e48e50f2/status.svg?token=5KPjuOtro7eNqR-ors3FRQ&branch=master)](https://app.bitrise.io/app/476c4a55e48e50f2/status.svg?token=5KPjuOtro7eNqR-ors3FRQ&branch=master)
+[![Build Status](https://app.bitrise.io/app/45cdc10159b27963/status.svg?token=K1tl1vI7Kx3TbieQJDWmlA)](https://app.bitrise.io/app/45cdc10159b27963)
 
