@@ -36,6 +36,5 @@ class MainActivity : AppCompatActivity() {
         mTextMessage = findViewById(R.id.message)
         val navigation = findViewById<BottomNavigationView>(R.id.navigation)
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener)
-
     }
 }
